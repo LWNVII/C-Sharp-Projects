@@ -1,0 +1,10 @@
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.AssemblyReference.cache
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.cache
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Users\ldrec\source\repos\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
