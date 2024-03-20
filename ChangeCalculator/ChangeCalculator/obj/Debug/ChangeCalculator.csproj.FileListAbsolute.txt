@@ -1,0 +1,10 @@
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.Properties.Resources.resources
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.GenerateResource.cache
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.ChangeCalculator.resources
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.exe
+C:\Users\Lorenzo\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.pdb

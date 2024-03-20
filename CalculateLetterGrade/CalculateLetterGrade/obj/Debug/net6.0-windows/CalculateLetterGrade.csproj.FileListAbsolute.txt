@@ -1,0 +1,16 @@
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.exe
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.deps.json
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.runtimeconfig.json
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.dll
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows\CalculateLetterGrade.pdb
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.AssemblyInfo.cs
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.dll
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\refint\CalculateLetterGrade.dll
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.pdb
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\CalculateLetterGrade.genruntimeconfig.cache
+C:\Users\Lorenzo\source\repos\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows\ref\CalculateLetterGrade.dll
